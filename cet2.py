@@ -91,10 +91,6 @@ def get_info(user_name, id_code):
 
 
 
-# name = '李明洋'
-# idCard = '411525200309016616'
-# get_info(name, idCard)
-
 
 name_dict = {}
 # 读取 Excel 文件
